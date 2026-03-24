@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Suối Tà Lài",
+    "province": "Đồng Nai",
+    "description": "Điểm du lịch sinh thái gần rừng, không quá đông vào ngày thường.",
+    "eco_tip": "Đi theo nhóm nhỏ, không xả rác nhựa và ưu tiên phương tiện công cộng."
+  },
+  {
+    "name": "Làng nổi Tân Lập",
+    "province": "Long An",
+    "description": "Không gian rừng tràm yên tĩnh, phù hợp hành trình quan sát thiên nhiên.",
+    "eco_tip": "Mang chai nước tái sử dụng và tuân thủ tuyến đi bộ có sẵn."
+  },
+  {
+    "name": "Bãi biển Sơn Mỹ",
+    "province": "Bình Thuận",
+    "description": "Bãi biển hoang sơ, ít dịch vụ đại trà, thích hợp nghỉ dưỡng nhẹ nhàng.",
+    "eco_tip": "Ưu tiên lưu trú địa phương và hạn chế sử dụng đồ dùng một lần."
+  },
+  {
+    "name": "Đồi cỏ hồng Ankroet",
+    "province": "Lâm Đồng",
+    "description": "Điểm check-in tự nhiên cách xa trung tâm, mật độ du khách thấp hơn khu phổ biến.",
+    "eco_tip": "Không dẫm lên thảm cỏ và giữ khoảng cách khi chụp ảnh."
+  }
+]

@@ -1,0 +1,9 @@
+﻿rule_id,action_type,point_value,condition,description
+ER001,Đi xe bus giữa các điểm tham quan,12,Chọn xe bus thay cho taxi trong hành trình nội đô,Khuyến khích du khách dùng phương tiện công cộng để giảm phát thải.
+ER002,Đi bộ khám phá cụm trung tâm,8,Đi bộ ít nhất 1 km giữa hai điểm gần nhau,Áp dụng khi di chuyển trong khu vực ven sông Hàn hoặc trung tâm thành phố.
+ER003,Đi xe đạp ven biển,10,Chọn xe đạp cho chặng ngắn dưới 7.5 km,Tăng điểm thưởng khi ưu tiên phương tiện phát thải thấp.
+ER004,Mang bình nước cá nhân,6,Không mua chai nhựa dùng một lần trong ngày tham quan,Giảm lượng rác thải nhựa phát sinh trong suốt hành trình.
+ER005,Ghép lịch vào khung giờ ít đông,9,Tham quan ngoài khung giờ đỉnh tại điểm có crowd score cao,"Hỗ trợ phân tán khách, giảm quá tải cục bộ tại điểm nóng."
+ER006,Mua sản phẩm làng nghề địa phương,7,Mua hàng trực tiếp tại làng nghề trong khu demo,Khuyến khích chi tiêu cho cộng đồng địa phương và sản phẩm thủ công.
+ER007,Ghé thăm hidden gem ít đông,11,Chọn điểm có popularity score dưới 60,Phân tán dòng khách sang các điểm bền vững hơn và ít áp lực hơn.
+ER008,Tham gia dọn rác cộng đồng,15,Tham gia hoạt động làm sạch bãi biển hoặc công viên,Điểm thưởng cao cho hành động đóng góp trực tiếp vào môi trường du lịch.

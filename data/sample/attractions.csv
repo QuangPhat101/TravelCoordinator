@@ -1,0 +1,21 @@
+﻿attraction_id,name,category,description,latitude,longitude,area,opening_hours,ticket_price,avg_rating,estimated_capacity,popularity_score,indoor_outdoor,tags
+DN001,Cầu Rồng,check-in,"Biểu tượng của Đà Nẵng, nổi bật vào buổi tối và cuối tuần.",16.0614,108.2278,Trung tâm sông Hàn,00:00-23:59,Miễn phí,4.7,5000,95,outdoor,cầu|ban đêm|sông Hàn|check-in
+DN002,Cầu Tình Yêu,check-in,"Điểm dạo bộ ven sông, phù hợp ngắm cảnh và chụp ảnh.",16.0618,108.2292,Trung tâm sông Hàn,06:00-23:00,Miễn phí,4.5,2200,82,outdoor,ven sông|chụp ảnh|cặp đôi|check-in
+DN003,Bảo tàng Điêu khắc Chăm,bảo tàng,Không gian lưu giữ bộ sưu tập điêu khắc Chăm lớn và giàu giá trị lịch sử.,16.0604,108.2237,Trung tâm sông Hàn,07:00-17:30,60.000 VNĐ,4.6,1200,76,indoor,lịch sử|nghệ thuật|văn hóa Chăm|bảo tàng
+DN004,Bảo tàng Đà Nẵng,bảo tàng,Giới thiệu tiến trình hình thành và phát triển của thành phố Đà Nẵng.,16.0728,108.2202,Trung tâm sông Hàn,08:00-17:00,Miễn phí,4.4,1500,62,indoor,thành phố|lịch sử|gia đình|bảo tàng
+DN005,Chợ Hàn,ẩm thực,Khu chợ truyền thống nổi tiếng với đặc sản địa phương và quà lưu niệm.,16.0671,108.2233,Khu ẩm thực địa phương,06:00-19:00,Miễn phí,4.3,3000,84,indoor,đặc sản|mua sắm|ẩm thực|chợ
+DN006,Chợ Cồn,ẩm thực,Thiên đường ăn vặt địa phương với mật độ quầy hàng dày đặc.,16.0677,108.2122,Khu ẩm thực địa phương,07:00-18:30,Miễn phí,4.5,3200,88,indoor,ăn vặt|địa phương|ẩm thực|đông khách
+DN007,Công viên Biển Đông,thiên nhiên,"Không gian mở sát biển, phù hợp tản bộ và quan sát chim bồ câu.",16.0678,108.2445,Sơn Trà ven biển,05:00-22:00,Miễn phí,4.6,4000,79,outdoor,công viên|biển|đi bộ|gia đình
+DN008,Bán đảo Sơn Trà,thiên nhiên,Khu sinh thái rừng và biển với nhiều điểm quan sát toàn cảnh thành phố.,16.1204,108.2685,Sơn Trà ven biển,06:00-17:30,Miễn phí,4.8,3500,86,outdoor,rừng|cảnh quan|xe máy|thiên nhiên
+DN009,Chùa Linh Ứng,văn hóa,Quần thể chùa linh thiêng với tượng Phật Quan Âm hướng biển.,16.0997,108.2775,Sơn Trà ven biển,06:00-21:00,Miễn phí,4.8,2800,87,outdoor,tâm linh|toàn cảnh|văn hóa|tham quan
+DN010,Ngũ Hành Sơn,thiên nhiên,"Cụm núi đá vôi kết hợp hang động, chùa chiền và điểm ngắm cảnh.",16.0036,108.2645,Ngũ Hành Sơn,07:00-17:30,40.000 VNĐ,4.7,3000,83,outdoor,núi|hang động|tâm linh|thiên nhiên
+DN011,Làng đá mỹ nghệ Non Nước,làng nghề,"Làng nghề thủ công lâu đời, nổi tiếng với điêu khắc đá mỹ nghệ.",16.0048,108.264,Ngũ Hành Sơn,08:00-18:00,Miễn phí,4.5,1800,61,indoor,thủ công|đá mỹ nghệ|làng nghề|mua sắm
+DN012,Bãi biển Mỹ Khê,thiên nhiên,"Bãi biển nổi tiếng với cát mịn, phù hợp tắm biển và đi dạo.",16.0544,108.2478,Sơn Trà ven biển,04:30-20:00,Miễn phí,4.8,6000,94,outdoor,biển|bình minh|thể thao biển|check-in
+DN013,Nhà thờ Chính tòa Đà Nẵng,văn hóa,Công trình kiến trúc màu hồng nổi bật giữa trung tâm thành phố.,16.0679,108.2245,Trung tâm sông Hàn,07:00-17:00,Miễn phí,4.6,1400,77,indoor,kiến trúc|nhà thờ|check-in|văn hóa
+DN014,Phố đi bộ Bạch Đằng,check-in,Trục đi bộ ven sông kết nối nhiều điểm ngắm cảnh và ẩm thực trung tâm.,16.0695,108.2246,Trung tâm sông Hàn,05:00-23:00,Miễn phí,4.5,4500,81,outdoor,đi bộ|ven sông|check-in|đêm
+DN015,Công viên APEC,check-in,Không gian công cộng hiện đại với mái vòm cỏ nổi bật.,16.0594,108.2264,Trung tâm sông Hàn,05:00-22:00,Miễn phí,4.6,2600,74,outdoor,kiến trúc|công viên|check-in|gia đình
+DN016,Làng nước mắm Nam Ô,làng nghề,Điểm tìm hiểu nghề truyền thống gắn với văn hóa biển miền Trung.,16.1253,108.1242,Làng nghề ngoại ô,08:00-17:00,Miễn phí,4.4,900,49,indoor,nước mắm|truyền thống|làng nghề|biển
+DN017,Ghềnh Bàng,thiên nhiên,"Bãi đá và làn nước trong, phù hợp du khách thích trải nghiệm thiên nhiên yên tĩnh.",16.1416,108.2412,Sơn Trà ven biển,06:00-17:00,Miễn phí,4.7,1100,58,outdoor,trekking|biển|hoang sơ|hidden gem
+DN018,Hải đăng Tiên Sa,check-in,"Điểm ngắm biển và bán đảo từ trên cao, khá yên tĩnh vào sáng sớm.",16.1068,108.271,Sơn Trà ven biển,06:00-17:30,Miễn phí,4.5,1000,57,outdoor,ngắm cảnh|hải đăng|sơn trà|check-in
+DN019,Làng chiếu Cẩm Nê,làng nghề,Không gian nghề truyền thống với sản phẩm chiếu thủ công đặc trưng.,15.9939,108.146,Làng nghề ngoại ô,08:00-16:30,Miễn phí,4.4,700,42,indoor,chiếu cói|thủ công|làng nghề|truyền thống
+DN020,Làng rau La Hường,văn hóa,"Mô hình nông nghiệp đô thị xanh, phù hợp trải nghiệm cộng đồng nhỏ.",16.0393,108.1915,Làng nghề ngoại ô,07:00-17:00,30.000 VNĐ,4.5,850,46,outdoor,nông nghiệp|trải nghiệm|xanh|cộng đồng

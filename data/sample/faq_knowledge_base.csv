@@ -1,0 +1,11 @@
+﻿question,intent,answer,tags
+Điểm nào ít đông,low_crowd_recommendation,"Các điểm thường ít đông hơn trong bộ demo là Ghềnh Bàng, Hải đăng Tiên Sa, Làng chiếu Cẩm Nê và Làng nước mắm Nam Ô.",ít đông|vắng khách|hidden gem|gợi ý
+Nên đi lúc mấy giờ,best_visit_time,Khung 7:00-9:00 và 14:00-16:00 thường dễ chịu hơn và ít áp lực khách hơn ở phần lớn điểm tham quan.,giờ đi|thời gian|khi nào|đỡ đông
+Có bus không,bus_availability,Có. Bộ dữ liệu mẫu có các lựa chọn xe bus giữa nhiều điểm chính trong thành phố để planner ưu tiên hành trình xanh.,bus|xe buýt|phương tiện|công cộng
+Hidden gem là gì,hidden_gem_explain,Hidden gem là những điểm có chất lượng trải nghiệm tốt nhưng mức độ phổ biến và áp lực khách thấp hơn các điểm biểu tượng.,hidden gem|điểm ẩn|ít nổi tiếng|ít đông
+Eco reward dùng để làm gì,eco_reward_info,"Eco Reward ghi nhận các hành vi xanh như đi bus, đi bộ, mang bình nước cá nhân hoặc ghé điểm ít đông để cộng điểm thưởng.",eco reward|điểm thưởng|điểm xanh|phần thưởng
+Du lịch xanh là gì,green_travel_definition,"Du lịch xanh là cách đi ưu tiên phát thải thấp, tôn trọng cộng đồng địa phương và giảm áp lực lên điểm đến quá tải.",du lịch xanh|bền vững|môi trường|eco
+Điểm nào phù hợp gia đình,family_friendly,"Công viên Biển Đông, Công viên APEC, Bảo tàng Điêu khắc Chăm và Bãi biển Mỹ Khê là các lựa chọn phù hợp gia đình trong bộ demo.",gia đình|trẻ em|nhẹ nhàng|an toàn
+Có điểm làng nghề nào,craft_village_info,"Bạn có thể ghé Làng đá mỹ nghệ Non Nước, Làng nước mắm Nam Ô hoặc Làng chiếu Cẩm Nê để trải nghiệm làng nghề.",làng nghề|thủ công|địa phương|truyền thống
+Mưa thì nên đi đâu,rainy_day_recommendation,"Khi mưa, nên ưu tiên các điểm trong nhà như Bảo tàng Điêu khắc Chăm, Bảo tàng Đà Nẵng, Chợ Hàn hoặc Chợ Cồn.",mưa|trong nhà|indoor|thời tiết xấu
+Có nên đi taxi không,taxi_tradeoff,"Taxi vẫn có trong dữ liệu mẫu, nhưng planner sẽ ưu tiên đi bộ, xe đạp hoặc xe bus nếu bạn chọn mục tiêu giảm phát thải.",taxi|carbon|phát thải|planner
